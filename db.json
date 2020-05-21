@@ -1,1 +1,50 @@
-
+{
+  "schultyp": [
+    "HAK",
+    "HTL",
+    "HLW"
+  ],
+  "bundesland": [
+    "Oberösterreich",
+	"Niederösterreich",
+	"Tirol",
+	"Wien",
+	"Steiermark",
+	"Burgenland",
+	"Vorarlberg",
+	"Kärnten",
+	"Salzburg"
+  ],
+  "schulen": [
+    "HTL Paul Hahn Linz",
+	"BORG Bad Leonfelden"
+  ],
+  "geschlecht": [
+    "männlich",
+	"weiblich"
+  ],
+  "studiengang": [
+    "Mobile Computing",
+	"Automotive Computing",
+	"Software Engineering"
+  ],
+  "angebote": [
+    "Tag der offenen Tür",
+	"one day at FH"
+  ],
+  "veranstaltung": [
+    "2012-04-23T08:25:43.511Z",
+	"2012-04-23T20:25:43.511Z",
+	"2012-04-23T12:00:00.511Z",
+	"2012-04-23T12:30:00.511Z"
+  ],
+  "beraterid": 45346,
+  "briefing": "bla bla bla bla jdsflkjsaofwifbjsdlfjb",
+  "termine": [
+    "2012-04-23T08:25:43.511Z",
+	"2012-04-23T20:25:43.511Z",
+	"2012-04-23T12:00:00.511Z",
+	"2012-04-23T12:30:00.511Z"
+  ],
+  "token": "sfjlaskfn43743hafajsdfjlsadhfow"
+}
